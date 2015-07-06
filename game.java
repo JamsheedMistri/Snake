@@ -7,7 +7,7 @@ public class game {
 	public static void main(String[] args) {
 		//Window.size(1366, 723);
 		Window.size(800, 500);
-		Window.setFrameRate(10);
+		Window.setFrameRate(15);
 		int score = 0;
 		snake head = new snake();
 		foooooood f = new foooooood();
